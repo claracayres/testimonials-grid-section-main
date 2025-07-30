@@ -24,8 +24,8 @@ The layout adapts based on the screen size to ensure a great user experience on 
 
 ## 🔗 Links
 
-- Solution URL: [Add your solution link here](https://github.com/claracayres/testimonials-grid-section-main)
-- Live Site URL: [Add your live site link here](https://claracayres.github.io/testimonials-grid-section-main)
+- [Solution URL](https://github.com/claracayres/testimonials-grid-section-main)
+- [Live Site URL](https://claracayres.github.io/testimonials-grid-section-main)
 
 ## 📸 Screenshots
 
