@@ -33,7 +33,7 @@ The layout adapts based on the screen size to ensure a great user experience on 
 ![Desktop screenshot](images/desktop.png)
 
 ### Mobile View
-![Mobile screenshot]( images/mobile.png)
+## <img src="images/mobile.png" alt="Mobile" width="250"/>
 
 ## 🚧 Future Improvements
 
