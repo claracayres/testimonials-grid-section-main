@@ -1,7 +1,4 @@
 # Frontend Mentor - Testimonials Grid Section Solution
-
-![Design preview for the Testimonials grid section coding challenge](./preview.jpg)
-
 ## 🚀 Overview
 
 This is my solution to the [Testimonials Grid Section challenge](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7) on Frontend Mentor. The goal was to build a responsive testimonials section using HTML and CSS, matching the provided design as closely as possible.
