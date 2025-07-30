@@ -24,8 +24,8 @@ The layout adapts based on the screen size to ensure a great user experience on 
 
 ## 🔗 Links
 
-- Solution URL: [Add your solution link here]()
-- Live Site URL: [Add your live site link here](#)
+- Solution URL: [Add your solution link here](https://github.com/claracayres/testimonials-grid-section-main)
+- Live Site URL: [Add your live site link here](https://claracayres.github.io/testimonials-grid-section-main)
 
 ## 📸 Screenshots
 
@@ -43,9 +43,9 @@ The layout adapts based on the screen size to ensure a great user experience on 
 
 ## 🙋‍♀️ Author
 
-- GitHub - [@yourusername](https://github.com/yourusername)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- LinkedIn - [Your Name](https://www.linkedin.com/in/yourlinkedin)
+- GitHub - [@claracayres](https://github.com/claracayres)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/claracayres)
+- LinkedIn - [Your Name](https://www.linkedin.com/in/maria-clara-cayres-de-almeida)
 
 ## 🎯 Acknowledgments
 
