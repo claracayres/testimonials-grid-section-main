@@ -119,7 +119,7 @@ body {
   background-color: var(--dark-blue);
 }
 
-@media (max-width: 375px) {
+@media (max-width: 768px) {
   .grid-container {
     grid-template-columns: 1fr;
     grid-template-rows: repeat(6, auto);
